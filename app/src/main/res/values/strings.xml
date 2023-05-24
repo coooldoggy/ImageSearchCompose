@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSearchCompose</string>
+    <string name="search_screen">검색</string>
+    <string name="favorite_screen">좋아요</string>
+</resources>
